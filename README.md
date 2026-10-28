@@ -6,7 +6,7 @@ I build AI tools and workflows and measure whether they work. I design them, dir
 
 ## Work
 
-- **Tells**, a poker trainer that scores every decision against a solver table. Built with AI-directed code and 585 tests.
+- **Tells**, a poker trainer that scores every decision against a solver table. Built with AI-directed code and 585 tests. Write-up: [tells-writeup](https://github.com/MarkHolthaus/tells-writeup)
 - **Fred and Sorter**, agents that run my notes vault: file intake, sorting, daily logs. Private. I can demo them live.
 - **Sim2Grow** (since 2022): HubSpot CRM, reporting, SOPs, competitor research.
 
